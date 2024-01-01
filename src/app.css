@@ -4,6 +4,7 @@
 
 body {
     @apply bg-background;
+    @apply text-onBackground;
     font-family: 'Inter', sans-serif;
 }
 
